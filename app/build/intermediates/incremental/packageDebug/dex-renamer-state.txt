@@ -1,0 +1,7 @@
+#Wed Jun 14 01:17:19 EDT 2017
+base.0=C\:\\Users\\Al\\Documents\\1-AD\\Alan2017Summer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_dd9768c54f1c6dd429a0d5327a5851e246fbe1a7
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Al\\Documents\\1-AD\\Alan2017Summer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_e64817d25eabf8549addd76eec37b263da5fb329\\classes.dex
+base.1=C\:\\Users\\Al\\Documents\\1-AD\\Alan2017Summer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_e64817d25eabf8549addd76eec37b263da5fb329
+file.0=C\:\\Users\\Al\\Documents\\1-AD\\Alan2017Summer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_dd9768c54f1c6dd429a0d5327a5851e246fbe1a7\\classes.dex
