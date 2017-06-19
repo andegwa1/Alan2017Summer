@@ -8,8 +8,12 @@ import android.support.v4.app.Fragment;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.Toast;
 
+import com.example.al.alan2017summer.MainActivity;
 import com.example.al.alan2017summer.R;
+
+import butterknife.ButterKnife;
 
 
 public class WorkFragment extends Fragment {
@@ -38,7 +42,12 @@ public class WorkFragment extends Fragment {
                              Bundle savedInstanceState) {
         // Inflate the layout for this fragment
         return inflater.inflate(R.layout.fragment_work, container, false);
+
     }
+
+//    public void submit(View v){
+//        Toast.makeText(WorkFragment.this, "You clicked login", Toast.LENGTH_SHORT).show();
+//    }
 
 
 }

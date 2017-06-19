@@ -12,6 +12,7 @@ import android.widget.ListView;
 
 import com.example.al.alan2017summer.ActivityA;
 import com.example.al.alan2017summer.AdvanceListViewActivity;
+import com.example.al.alan2017summer.AdvanceViewPagerActivity;
 import com.example.al.alan2017summer.NinePatchActivity;
 import com.example.al.alan2017summer.NotificationActivity;
 import com.example.al.alan2017summer.R;
@@ -93,6 +94,10 @@ public class DemoFragment extends Fragment {
                     case 4:
                         Intent intent4 = new Intent(getActivity(), AdvanceListViewActivity.class);
                         startActivity(intent4);
+                        break;
+                    case 5:
+                        Intent intent5 = new Intent(getActivity(), AdvanceViewPagerActivity.class);
+                        startActivity(intent5);
                         break;
                     case 6:
                         Intent intent6 = new Intent(getActivity(), ActivityA.class);

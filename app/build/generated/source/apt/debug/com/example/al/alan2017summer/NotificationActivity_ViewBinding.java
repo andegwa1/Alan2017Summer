@@ -13,11 +13,11 @@ import java.lang.Override;
 public class NotificationActivity_ViewBinding implements Unbinder {
   private NotificationActivity target;
 
-  private View view2131427453;
+  private View view2131558558;
 
-  private View view2131427454;
+  private View view2131558559;
 
-  private View view2131427455;
+  private View view2131558560;
 
   @UiThread
   public NotificationActivity_ViewBinding(NotificationActivity target) {
@@ -30,7 +30,7 @@ public class NotificationActivity_ViewBinding implements Unbinder {
 
     View view;
     view = Utils.findRequiredView(source, R.id.activity_notification_small, "method 'smallNotification'");
-    view2131427453 = view;
+    view2131558558 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -38,7 +38,7 @@ public class NotificationActivity_ViewBinding implements Unbinder {
       }
     });
     view = Utils.findRequiredView(source, R.id.activity_notification_big, "method 'bigNotification'");
-    view2131427454 = view;
+    view2131558559 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -46,7 +46,7 @@ public class NotificationActivity_ViewBinding implements Unbinder {
       }
     });
     view = Utils.findRequiredView(source, R.id.activity_notification_pic, "method 'picNotification'");
-    view2131427455 = view;
+    view2131558560 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -62,11 +62,11 @@ public class NotificationActivity_ViewBinding implements Unbinder {
     target = null;
 
 
-    view2131427453.setOnClickListener(null);
-    view2131427453 = null;
-    view2131427454.setOnClickListener(null);
-    view2131427454 = null;
-    view2131427455.setOnClickListener(null);
-    view2131427455 = null;
+    view2131558558.setOnClickListener(null);
+    view2131558558 = null;
+    view2131558559.setOnClickListener(null);
+    view2131558559 = null;
+    view2131558560.setOnClickListener(null);
+    view2131558560 = null;
   }
 }
