@@ -3,9 +3,12 @@ package com.example.al.alan2017summer.adapter;
 
 
 import java.util.ArrayList;
+
+import android.content.Context;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentPagerAdapter;
+import android.view.LayoutInflater;
 
 /**
  * Created by Al on 6/12/2017.
@@ -21,6 +24,7 @@ public class BaseViewPagerAdapter extends FragmentPagerAdapter {
     public BaseViewPagerAdapter(FragmentManager fm, ArrayList<Fragment> list) {
         super(fm);
         this.list = list;
+
     }
 
     @Override

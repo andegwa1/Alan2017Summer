@@ -8,8 +8,16 @@
         "source": "C:\\Users\\Al\\Documents\\1-AD\\Alan2017Summer\\app\\src\\main\\res\\layout\\list_normal_item.xml"
     },
     {
+        "merged": "C:\\Users\\Al\\Documents\\1-AD\\Alan2017Summer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_nine_patch.xml",
+        "source": "C:\\Users\\Al\\Documents\\1-AD\\Alan2017Summer\\app\\src\\main\\res\\layout\\activity_nine_patch.xml"
+    },
+    {
         "merged": "C:\\Users\\Al\\Documents\\1-AD\\Alan2017Summer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
         "source": "C:\\Users\\Al\\.android\\build-cache\\47558d70abdaa6e9dec555b7ab6408260b5063c2\\output\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Al\\Documents\\1-AD\\Alan2017Summer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_c.xml",
+        "source": "C:\\Users\\Al\\Documents\\1-AD\\Alan2017Summer\\app\\src\\main\\res\\layout\\activity_c.xml"
     },
     {
         "merged": "C:\\Users\\Al\\Documents\\1-AD\\Alan2017Summer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
@@ -52,20 +60,32 @@
         "source": "C:\\Users\\Al\\Documents\\1-AD\\Alan2017Summer\\app\\src\\main\\res\\layout\\fragment_demo.xml"
     },
     {
+        "merged": "C:\\Users\\Al\\Documents\\1-AD\\Alan2017Summer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_b.xml",
+        "source": "C:\\Users\\Al\\Documents\\1-AD\\Alan2017Summer\\app\\src\\main\\res\\layout\\activity_b.xml"
+    },
+    {
         "merged": "C:\\Users\\Al\\Documents\\1-AD\\Alan2017Summer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
         "source": "C:\\Users\\Al\\.android\\build-cache\\47558d70abdaa6e9dec555b7ab6408260b5063c2\\output\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Al\\Documents\\1-AD\\Alan2017Summer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_a.xml",
+        "source": "C:\\Users\\Al\\Documents\\1-AD\\Alan2017Summer\\app\\src\\main\\res\\layout\\activity_a.xml"
+    },
+    {
+        "merged": "C:\\Users\\Al\\Documents\\1-AD\\Alan2017Summer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_d.xml",
+        "source": "C:\\Users\\Al\\Documents\\1-AD\\Alan2017Summer\\app\\src\\main\\res\\layout\\activity_d.xml"
     },
     {
         "merged": "C:\\Users\\Al\\Documents\\1-AD\\Alan2017Summer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
         "source": "C:\\Users\\Al\\.android\\build-cache\\47558d70abdaa6e9dec555b7ab6408260b5063c2\\output\\res\\layout\\notification_template_part_chronometer.xml"
     },
     {
-        "merged": "C:\\Users\\Al\\Documents\\1-AD\\Alan2017Summer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
-        "source": "C:\\Users\\Al\\.android\\build-cache\\47558d70abdaa6e9dec555b7ab6408260b5063c2\\output\\res\\layout\\abc_dialog_title_material.xml"
-    },
-    {
         "merged": "C:\\Users\\Al\\Documents\\1-AD\\Alan2017Summer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
         "source": "C:\\Users\\Al\\.android\\build-cache\\47558d70abdaa6e9dec555b7ab6408260b5063c2\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\Al\\Documents\\1-AD\\Alan2017Summer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\Al\\.android\\build-cache\\47558d70abdaa6e9dec555b7ab6408260b5063c2\\output\\res\\layout\\abc_dialog_title_material.xml"
     },
     {
         "merged": "C:\\Users\\Al\\Documents\\1-AD\\Alan2017Summer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
@@ -80,12 +100,20 @@
         "source": "C:\\Users\\Al\\.android\\build-cache\\47558d70abdaa6e9dec555b7ab6408260b5063c2\\output\\res\\layout\\abc_search_view.xml"
     },
     {
+        "merged": "C:\\Users\\Al\\Documents\\1-AD\\Alan2017Summer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_advance_list_view.xml",
+        "source": "C:\\Users\\Al\\Documents\\1-AD\\Alan2017Summer\\app\\src\\main\\res\\layout\\activity_advance_list_view.xml"
+    },
+    {
         "merged": "C:\\Users\\Al\\Documents\\1-AD\\Alan2017Summer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
         "source": "C:\\Users\\Al\\.android\\build-cache\\47558d70abdaa6e9dec555b7ab6408260b5063c2\\output\\res\\layout\\abc_list_menu_item_icon.xml"
     },
     {
         "merged": "C:\\Users\\Al\\Documents\\1-AD\\Alan2017Summer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
         "source": "C:\\Users\\Al\\.android\\build-cache\\47558d70abdaa6e9dec555b7ab6408260b5063c2\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\Al\\Documents\\1-AD\\Alan2017Summer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_advance_list_item.xml",
+        "source": "C:\\Users\\Al\\Documents\\1-AD\\Alan2017Summer\\app\\src\\main\\res\\layout\\activity_advance_list_item.xml"
     },
     {
         "merged": "C:\\Users\\Al\\Documents\\1-AD\\Alan2017Summer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_scale_fitend.xml",
@@ -104,10 +132,6 @@
         "source": "C:\\Users\\Al\\.android\\build-cache\\47558d70abdaa6e9dec555b7ab6408260b5063c2\\output\\res\\layout\\abc_action_bar_up_container.xml"
     },
     {
-        "merged": "C:\\Users\\Al\\Documents\\1-AD\\Alan2017Summer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_launch_mode.xml",
-        "source": "C:\\Users\\Al\\Documents\\1-AD\\Alan2017Summer\\app\\src\\main\\res\\layout\\activity_launch_mode.xml"
-    },
-    {
         "merged": "C:\\Users\\Al\\Documents\\1-AD\\Alan2017Summer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
         "source": "C:\\Users\\Al\\.android\\build-cache\\47558d70abdaa6e9dec555b7ab6408260b5063c2\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
     },
@@ -122,6 +146,10 @@
     {
         "merged": "C:\\Users\\Al\\Documents\\1-AD\\Alan2017Summer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_scale_center.xml",
         "source": "C:\\Users\\Al\\Documents\\1-AD\\Alan2017Summer\\app\\src\\main\\res\\layout\\view_scale_center.xml"
+    },
+    {
+        "merged": "C:\\Users\\Al\\Documents\\1-AD\\Alan2017Summer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_advance.xml",
+        "source": "C:\\Users\\Al\\Documents\\1-AD\\Alan2017Summer\\app\\src\\main\\res\\layout\\activity_advance.xml"
     },
     {
         "merged": "C:\\Users\\Al\\Documents\\1-AD\\Alan2017Summer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
@@ -186,6 +214,10 @@
     {
         "merged": "C:\\Users\\Al\\Documents\\1-AD\\Alan2017Summer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_scale_centerinside.xml",
         "source": "C:\\Users\\Al\\Documents\\1-AD\\Alan2017Summer\\app\\src\\main\\res\\layout\\view_scale_centerinside.xml"
+    },
+    {
+        "merged": "C:\\Users\\Al\\Documents\\1-AD\\Alan2017Summer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_notification.xml",
+        "source": "C:\\Users\\Al\\Documents\\1-AD\\Alan2017Summer\\app\\src\\main\\res\\layout\\activity_notification.xml"
     },
     {
         "merged": "C:\\Users\\Al\\Documents\\1-AD\\Alan2017Summer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_test.xml",

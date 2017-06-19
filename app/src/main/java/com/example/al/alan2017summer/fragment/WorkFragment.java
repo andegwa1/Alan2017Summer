@@ -11,14 +11,7 @@ import android.view.ViewGroup;
 
 import com.example.al.alan2017summer.R;
 
-/**
- * A simple {@link Fragment} subclass.
- * Activities that contain this fragment must implement the
- * {@link WorkFragment.OnFragmentInteractionListener} interface
- * to handle interaction events.
- * Use the {@link WorkFragment#newInstance} factory method to
- * create an instance of this fragment.
- */
+
 public class WorkFragment extends Fragment {
 
 
