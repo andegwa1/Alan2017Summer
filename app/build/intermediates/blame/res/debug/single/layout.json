@@ -48,6 +48,10 @@
         "source": "C:\\Users\\Al\\.android\\build-cache\\47558d70abdaa6e9dec555b7ab6408260b5063c2\\output\\res\\layout\\notification_template_lines.xml"
     },
     {
+        "merged": "C:\\Users\\Al\\Documents\\1-AD\\Alan2017Summer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_dialog.xml",
+        "source": "C:\\Users\\Al\\Documents\\1-AD\\Alan2017Summer\\app\\src\\main\\res\\layout\\activity_dialog.xml"
+    },
+    {
         "merged": "C:\\Users\\Al\\Documents\\1-AD\\Alan2017Summer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
         "source": "C:\\Users\\Al\\.android\\build-cache\\e58194c029b149befd2946271ccfda2ed9fe4149\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
     },
@@ -62,6 +66,10 @@
     {
         "merged": "C:\\Users\\Al\\Documents\\1-AD\\Alan2017Summer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
         "source": "C:\\Users\\Al\\.android\\build-cache\\e58194c029b149befd2946271ccfda2ed9fe4149\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Al\\Documents\\1-AD\\Alan2017Summer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_radio_group.xml",
+        "source": "C:\\Users\\Al\\Documents\\1-AD\\Alan2017Summer\\app\\src\\main\\res\\layout\\activity_radio_group.xml"
     },
     {
         "merged": "C:\\Users\\Al\\Documents\\1-AD\\Alan2017Summer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
@@ -106,6 +114,14 @@
     {
         "merged": "C:\\Users\\Al\\Documents\\1-AD\\Alan2017Summer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_d.xml",
         "source": "C:\\Users\\Al\\Documents\\1-AD\\Alan2017Summer\\app\\src\\main\\res\\layout\\activity_d.xml"
+    },
+    {
+        "merged": "C:\\Users\\Al\\Documents\\1-AD\\Alan2017Summer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_check_box.xml",
+        "source": "C:\\Users\\Al\\Documents\\1-AD\\Alan2017Summer\\app\\src\\main\\res\\layout\\activity_check_box.xml"
+    },
+    {
+        "merged": "C:\\Users\\Al\\Documents\\1-AD\\Alan2017Summer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_result1.xml",
+        "source": "C:\\Users\\Al\\Documents\\1-AD\\Alan2017Summer\\app\\src\\main\\res\\layout\\activity_result1.xml"
     },
     {
         "merged": "C:\\Users\\Al\\Documents\\1-AD\\Alan2017Summer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
@@ -184,6 +200,10 @@
         "source": "C:\\Users\\Al\\.android\\build-cache\\e58194c029b149befd2946271ccfda2ed9fe4149\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
     },
     {
+        "merged": "C:\\Users\\Al\\Documents\\1-AD\\Alan2017Summer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_result2.xml",
+        "source": "C:\\Users\\Al\\Documents\\1-AD\\Alan2017Summer\\app\\src\\main\\res\\layout\\activity_result2.xml"
+    },
+    {
         "merged": "C:\\Users\\Al\\Documents\\1-AD\\Alan2017Summer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_scale_fitcenter.xml",
         "source": "C:\\Users\\Al\\Documents\\1-AD\\Alan2017Summer\\app\\src\\main\\res\\layout\\view_scale_fitcenter.xml"
     },
@@ -218,6 +238,10 @@
     {
         "merged": "C:\\Users\\Al\\Documents\\1-AD\\Alan2017Summer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
         "source": "C:\\Users\\Al\\.android\\build-cache\\e58194c029b149befd2946271ccfda2ed9fe4149\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Al\\Documents\\1-AD\\Alan2017Summer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_result.xml",
+        "source": "C:\\Users\\Al\\Documents\\1-AD\\Alan2017Summer\\app\\src\\main\\res\\layout\\activity_result.xml"
     },
     {
         "merged": "C:\\Users\\Al\\Documents\\1-AD\\Alan2017Summer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_scale_fitstart.xml",

@@ -13,12 +13,17 @@ import android.widget.ListView;
 import com.example.al.alan2017summer.ActivityA;
 import com.example.al.alan2017summer.AdvanceListViewActivity;
 import com.example.al.alan2017summer.AdvanceViewPagerActivity;
+import com.example.al.alan2017summer.CheckBoxActivity;
+import com.example.al.alan2017summer.DialogActivity;
 import com.example.al.alan2017summer.NinePatchActivity;
 import com.example.al.alan2017summer.NotificationActivity;
 import com.example.al.alan2017summer.R;
+import com.example.al.alan2017summer.RadioGroupActivity;
+import com.example.al.alan2017summer.ResultActivity;
 import com.example.al.alan2017summer.ScaleTypeActivity;
 import com.example.al.alan2017summer.ViewPagerActivity;
 import com.example.al.alan2017summer.adapter.ListNormalAdapter;
+import com.example.al.alan2017summer.audio.BaseBean;
 
 import java.util.ArrayList;
 
@@ -40,12 +45,12 @@ public class DemoFragment extends Fragment {
         contentList.add("9Patch");
         contentList.add("Notification");
         contentList.add("AdvanceListView");
-        contentList.add("C");
-        contentList.add("ActivityA");
         contentList.add("AdvanceViewPager");
-        contentList.add("F");
-        contentList.add("G");
-        contentList.add("H");
+        contentList.add("LaunchMode");
+        contentList.add("Activity");
+        contentList.add("RadioGroup");
+        contentList.add("CheckBox");
+        contentList.add("Dialog");
         contentList.add("I");
         contentList.add("J");
         contentList.add("K");
@@ -101,7 +106,35 @@ public class DemoFragment extends Fragment {
                         break;
                     case 6:
                         Intent intent6 = new Intent(getActivity(), ActivityA.class);
+                        intent6.putExtra("StringInfo","fromDemoFragment");
+                        intent6.putExtra("IntegerInfo",10);
+
+                        Bundle bundle = new Bundle();
+                        bundle.putString("StringBundle", "FromBundleDemo");
+                        bundle.putInt("Bundle", 101);
+                        intent6.putExtra("Bundle",bundle);
+
+                        BaseBean bean = new BaseBean();
+                        bean.setName("bean");
+                        bundle.putSerializable("Object", bean);
+
                         startActivity(intent6);
+                        break;
+                    case 7:
+                        Intent intent7 = new Intent(getActivity(), ResultActivity.class);
+                        startActivity(intent7);
+                        break;
+                    case 8:
+                        Intent intent8 = new Intent(getActivity(), RadioGroupActivity.class);
+                        startActivity(intent8);
+                        break;
+                    case 9:
+                        Intent intent9 = new Intent(getActivity(), CheckBoxActivity.class);
+                        startActivity(intent9);
+                        break;
+                    case 10:
+                        Intent intent10 = new Intent(getActivity(), DialogActivity.class);
+                        startActivity(intent10);
                         break;
                     default:
                 }

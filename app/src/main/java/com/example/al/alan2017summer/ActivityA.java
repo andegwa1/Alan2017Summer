@@ -7,6 +7,8 @@ import android.view.View;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.example.al.alan2017summer.audio.BaseBean;
+
 import butterknife.BindView;
 import butterknife.ButterKnife;
 import butterknife.OnClick;
@@ -41,8 +43,21 @@ public class ActivityA extends BaseActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_a);
-        ButterKnife.bind(this);
         showToast("onCreate");
+        ButterKnife.bind(this);
+
+        Intent intent = getIntent();
+        Bundle bundle = intent.getBundleExtra("Bundle");
+        String bs = bundle.getString("StringBundle");
+        int bi = bundle.getInt("IntegerBundle,0");
+        BaseBean bean = (BaseBean)bundle.getSerializable("Object");
+        shortToast(bean.getName());
+
+        //String s = intent.getStringExtra("StringInfo");
+        //int i = intent.getIntExtra("Integer", 0);
+//        shortToast(String.valueOf(i));
+////        shortToast(i+"");
+//        shortToast("Integer is: " + i);
     }
 
     @Override

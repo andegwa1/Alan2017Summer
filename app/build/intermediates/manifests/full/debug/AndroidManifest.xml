@@ -51,6 +51,12 @@
         <activity android:name="com.example.al.alan2017summer.fragment.AdvanceActivity" />
         <activity android:name="com.example.al.alan2017summer.AdvanceListViewActivity" />
         <activity android:name="com.example.al.alan2017summer.AdvanceViewPagerActivity" />
+        <activity android:name="com.example.al.alan2017summer.ResultActivity" />
+        <activity android:name="com.example.al.alan2017summer.ResultActivity1" />
+        <activity android:name="com.example.al.alan2017summer.ResultActivity2" />
+        <activity android:name="com.example.al.alan2017summer.RadioGroupActivity" />
+        <activity android:name="com.example.al.alan2017summer.CheckBoxActivity" />
+        <activity android:name="com.example.al.alan2017summer.DialogActivity" />
     </application>
 
 </manifest>
