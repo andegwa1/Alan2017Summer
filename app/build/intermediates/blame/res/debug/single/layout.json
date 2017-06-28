@@ -152,6 +152,10 @@
         "source": "C:\\Users\\Al\\Documents\\1-AD\\Alan2017Summer\\app\\src\\main\\res\\layout\\view_scale_centercrop.xml"
     },
     {
+        "merged": "C:\\Users\\Al\\Documents\\1-AD\\Alan2017Summer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_handler.xml",
+        "source": "C:\\Users\\Al\\Documents\\1-AD\\Alan2017Summer\\app\\src\\main\\res\\layout\\activity_handler.xml"
+    },
+    {
         "merged": "C:\\Users\\Al\\Documents\\1-AD\\Alan2017Summer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
         "source": "C:\\Users\\Al\\.android\\build-cache\\e58194c029b149befd2946271ccfda2ed9fe4149\\output\\res\\layout\\abc_search_view.xml"
     },
@@ -212,6 +216,10 @@
         "source": "C:\\Users\\Al\\.android\\build-cache\\e58194c029b149befd2946271ccfda2ed9fe4149\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
     },
     {
+        "merged": "C:\\Users\\Al\\Documents\\1-AD\\Alan2017Summer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_custom.xml",
+        "source": "C:\\Users\\Al\\Documents\\1-AD\\Alan2017Summer\\app\\src\\main\\res\\layout\\dialog_custom.xml"
+    },
+    {
         "merged": "C:\\Users\\Al\\Documents\\1-AD\\Alan2017Summer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_scale_center.xml",
         "source": "C:\\Users\\Al\\Documents\\1-AD\\Alan2017Summer\\app\\src\\main\\res\\layout\\view_scale_center.xml"
     },
@@ -236,12 +244,20 @@
         "source": "C:\\Users\\Al\\.android\\build-cache\\e58194c029b149befd2946271ccfda2ed9fe4149\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
     },
     {
+        "merged": "C:\\Users\\Al\\Documents\\1-AD\\Alan2017Summer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_runnable_handler.xml",
+        "source": "C:\\Users\\Al\\Documents\\1-AD\\Alan2017Summer\\app\\src\\main\\res\\layout\\activity_runnable_handler.xml"
+    },
+    {
         "merged": "C:\\Users\\Al\\Documents\\1-AD\\Alan2017Summer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
         "source": "C:\\Users\\Al\\.android\\build-cache\\e58194c029b149befd2946271ccfda2ed9fe4149\\output\\res\\layout\\abc_list_menu_item_layout.xml"
     },
     {
         "merged": "C:\\Users\\Al\\Documents\\1-AD\\Alan2017Summer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_result.xml",
         "source": "C:\\Users\\Al\\Documents\\1-AD\\Alan2017Summer\\app\\src\\main\\res\\layout\\activity_result.xml"
+    },
+    {
+        "merged": "C:\\Users\\Al\\Documents\\1-AD\\Alan2017Summer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_animation.xml",
+        "source": "C:\\Users\\Al\\Documents\\1-AD\\Alan2017Summer\\app\\src\\main\\res\\layout\\activity_animation.xml"
     },
     {
         "merged": "C:\\Users\\Al\\Documents\\1-AD\\Alan2017Summer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_scale_fitstart.xml",

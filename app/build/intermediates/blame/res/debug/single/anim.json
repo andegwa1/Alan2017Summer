@@ -24,6 +24,10 @@
         "source": "C:\\Users\\Al\\.android\\build-cache\\def6ac30cabf594ca1486c5145d44c0e4a993408\\output\\res\\anim\\design_snackbar_out.xml"
     },
     {
+        "merged": "C:\\Users\\Al\\Documents\\1-AD\\Alan2017Summer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\anim_rotate.xml",
+        "source": "C:\\Users\\Al\\Documents\\1-AD\\Alan2017Summer\\app\\src\\main\\res\\anim\\anim_rotate.xml"
+    },
+    {
         "merged": "C:\\Users\\Al\\Documents\\1-AD\\Alan2017Summer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
         "source": "C:\\Users\\Al\\.android\\build-cache\\e58194c029b149befd2946271ccfda2ed9fe4149\\output\\res\\anim\\abc_popup_enter.xml"
     },
@@ -32,8 +36,16 @@
         "source": "C:\\Users\\Al\\.android\\build-cache\\def6ac30cabf594ca1486c5145d44c0e4a993408\\output\\res\\anim\\design_snackbar_in.xml"
     },
     {
+        "merged": "C:\\Users\\Al\\Documents\\1-AD\\Alan2017Summer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\anim_trans.xml",
+        "source": "C:\\Users\\Al\\Documents\\1-AD\\Alan2017Summer\\app\\src\\main\\res\\anim\\anim_trans.xml"
+    },
+    {
         "merged": "C:\\Users\\Al\\Documents\\1-AD\\Alan2017Summer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
         "source": "C:\\Users\\Al\\.android\\build-cache\\e58194c029b149befd2946271ccfda2ed9fe4149\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Al\\Documents\\1-AD\\Alan2017Summer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\anim_scale.xml",
+        "source": "C:\\Users\\Al\\Documents\\1-AD\\Alan2017Summer\\app\\src\\main\\res\\anim\\anim_scale.xml"
     },
     {
         "merged": "C:\\Users\\Al\\Documents\\1-AD\\Alan2017Summer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
@@ -44,12 +56,20 @@
         "source": "C:\\Users\\Al\\.android\\build-cache\\e58194c029b149befd2946271ccfda2ed9fe4149\\output\\res\\anim\\abc_fade_out.xml"
     },
     {
+        "merged": "C:\\Users\\Al\\Documents\\1-AD\\Alan2017Summer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\anim_set.xml",
+        "source": "C:\\Users\\Al\\Documents\\1-AD\\Alan2017Summer\\app\\src\\main\\res\\anim\\anim_set.xml"
+    },
+    {
         "merged": "C:\\Users\\Al\\Documents\\1-AD\\Alan2017Summer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
         "source": "C:\\Users\\Al\\.android\\build-cache\\e58194c029b149befd2946271ccfda2ed9fe4149\\output\\res\\anim\\abc_fade_in.xml"
     },
     {
         "merged": "C:\\Users\\Al\\Documents\\1-AD\\Alan2017Summer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
         "source": "C:\\Users\\Al\\.android\\build-cache\\def6ac30cabf594ca1486c5145d44c0e4a993408\\output\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Al\\Documents\\1-AD\\Alan2017Summer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\anim_alpha.xml",
+        "source": "C:\\Users\\Al\\Documents\\1-AD\\Alan2017Summer\\app\\src\\main\\res\\anim\\anim_alpha.xml"
     },
     {
         "merged": "C:\\Users\\Al\\Documents\\1-AD\\Alan2017Summer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",

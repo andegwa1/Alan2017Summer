@@ -5,6 +5,8 @@ import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.widget.Toast;
 
+import java.util.logging.Handler;
+
 /**
  * Created by Al on 6/14/2017.
  */
@@ -27,4 +29,6 @@ public class BaseActivity extends AppCompatActivity {
         Intent intent = new Intent(this,c);
         startActivity(intent);
     }
+
+
 }

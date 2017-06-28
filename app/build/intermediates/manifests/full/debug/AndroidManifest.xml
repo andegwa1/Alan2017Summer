@@ -36,7 +36,6 @@
         <activity
             android:name="com.example.al.alan2017summer.ActivityA"
             android:launchMode="standard" />
-        <activity android:name="com.example.al.alan2017summer.ScaleTypeActivity" />
         <activity
             android:name="com.example.al.alan2017summer.ActivityB"
             android:launchMode="singleTop" />
@@ -46,6 +45,7 @@
         <activity
             android:name="com.example.al.alan2017summer.ActivityD"
             android:launchMode="singleInstance" />
+        <activity android:name="com.example.al.alan2017summer.ScaleTypeActivity" />
         <activity android:name="com.example.al.alan2017summer.NinePatchActivity" />
         <activity android:name="com.example.al.alan2017summer.NotificationActivity" />
         <activity android:name="com.example.al.alan2017summer.fragment.AdvanceActivity" />
@@ -57,6 +57,9 @@
         <activity android:name="com.example.al.alan2017summer.RadioGroupActivity" />
         <activity android:name="com.example.al.alan2017summer.CheckBoxActivity" />
         <activity android:name="com.example.al.alan2017summer.DialogActivity" />
+        <activity android:name="com.example.al.alan2017summer.HandlerActivity" />
+        <activity android:name="com.example.al.alan2017summer.RunnableHandlerActivity" />
+        <activity android:name="com.example.al.alan2017summer.AnimationActivity" />
     </application>
 
 </manifest>

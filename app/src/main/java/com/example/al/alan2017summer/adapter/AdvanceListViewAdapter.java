@@ -10,7 +10,8 @@ import android.widget.LinearLayout;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
 
-import com.example.al.alan2017summer.R;
+//import com.example.al.alan2017summer.R;
+import com.example.al.alan2017summer.*;
 import com.example.al.alan2017summer.util.UtilDensity;
 
 import org.w3c.dom.Text;

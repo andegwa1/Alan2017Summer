@@ -5,6 +5,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 
+import butterknife.ButterKnife;
 import butterknife.OnClick;
 
 public class ResultActivity extends BaseActivity {
@@ -29,6 +30,7 @@ public class ResultActivity extends BaseActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_result);
+        ButterKnife.bind(this);
     }
 
     @Override
@@ -38,11 +40,12 @@ public class ResultActivity extends BaseActivity {
         String s = data.getStringExtra("Data");
         switch (requestCode){
             case ACTIVITY1:
-                shortToast("FromResultActivity1");
+                shortToast(s + "FromResultActivity1");
                 break;
             case ACTIVITY2:
-                shortToast("FromResultActivity2");
+                shortToast(s+ "FromResultActivity2");
                 break;
+            default:
         }
     }
 }
