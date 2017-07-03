@@ -60,6 +60,9 @@
         <activity android:name="com.example.al.alan2017summer.HandlerActivity" />
         <activity android:name="com.example.al.alan2017summer.RunnableHandlerActivity" />
         <activity android:name="com.example.al.alan2017summer.AnimationActivity" />
+        <activity android:name="com.example.al.alan2017summer.AnimatorActivity" />
+        <activity android:name="com.example.al.alan2017summer.GestureActivity" />
+        <activity android:name="com.example.al.alan2017summer.SharedPreferenceActivity" />
     </application>
 
 </manifest>

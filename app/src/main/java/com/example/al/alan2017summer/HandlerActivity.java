@@ -70,6 +70,7 @@ public class HandlerActivity extends BaseActivity {
             public void onClick(View view) {
                 button.setText("Reset");
                 button.setOnClickListener(resetListener);
+                //thread.
             }
         };
 
@@ -82,7 +83,6 @@ public class HandlerActivity extends BaseActivity {
             }
         };
         button.setOnClickListener(startListener);
-
         startThread();
     }
 
@@ -100,12 +100,12 @@ public class HandlerActivity extends BaseActivity {
 
                     msg.setData(bundle);
                     msg.what = TIMER;
-                    handler.handleMessage(msg);
+                    handler.sendMessage(msg);
                 }catch (Exception e){
                     e.printStackTrace();
                 }
-                int num = Integer.valueOf(editText.getText().toString());
-                editText.setText(String.valueOf(num-1));
+//                int num = Integer.valueOf(editText.getText().toString());
+//                editText.setText(String.valueOf(num-1));
             }
         });
         thread.start();

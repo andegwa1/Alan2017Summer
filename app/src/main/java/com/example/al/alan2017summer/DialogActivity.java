@@ -239,7 +239,7 @@ public class DialogActivity extends BaseActivity {
                 Message msg = Message.obtain();
                 msg.what = DIALOG;
                 msg.setData(bundle);
-                //mHandler.sendMesage(msg);
+                mHandler.sendMessage(msg);
                 progressDialog.cancel();
             }
         }).start();

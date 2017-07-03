@@ -13,10 +13,10 @@ import butterknife.ButterKnife;
 
 public class RunnableHandlerActivity extends AppCompatActivity {
 
-    @BindView(R.id.activity_handler_et)
+    @BindView(R.id.activity_handler_runnable_et)
     EditText editText;
 
-    @BindView(R.id.activity_handler_bt)
+    @BindView(R.id.activity_handler_runnable_bt)
     Button button;
 
     private View.OnClickListener startListener;

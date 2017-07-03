@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Al\Documents\1-AD\Alan2017Summer\app\src\main\AndroidManifest.xml:2:1-57:12
+ADDED from C:\Users\Al\Documents\1-AD\Alan2017Summer\app\src\main\AndroidManifest.xml:2:1-58:12
 	package
 		ADDED from C:\Users\Al\Documents\1-AD\Alan2017Summer\app\src\main\AndroidManifest.xml:3:5-44
 		INJECTED from C:\Users\Al\Documents\1-AD\Alan2017Summer\app\src\main\AndroidManifest.xml
@@ -14,7 +14,7 @@ ADDED from C:\Users\Al\Documents\1-AD\Alan2017Summer\app\src\main\AndroidManifes
 		INJECTED from C:\Users\Al\Documents\1-AD\Alan2017Summer\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Al\Documents\1-AD\Alan2017Summer\app\src\main\AndroidManifest.xml
 application
-ADDED from C:\Users\Al\Documents\1-AD\Alan2017Summer\app\src\main\AndroidManifest.xml:5:5-55:19
+ADDED from C:\Users\Al\Documents\1-AD\Alan2017Summer\app\src\main\AndroidManifest.xml:5:5-56:19
 MERGED from [com.android.support:design:25.3.1] C:\Users\Al\.android\build-cache\def6ac30cabf594ca1486c5145d44c0e4a993408\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Al\.android\build-cache\e58194c029b149befd2946271ccfda2ed9fe4149\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Al\.android\build-cache\afccb76071e596e0754be18eef3833b2a4719b29\output\AndroidManifest.xml:26:5-20
@@ -62,83 +62,95 @@ ADDED from C:\Users\Al\Documents\1-AD\Alan2017Summer\app\src\main\AndroidManifes
 	android:name
 		ADDED from C:\Users\Al\Documents\1-AD\Alan2017Summer\app\src\main\AndroidManifest.xml:27:13-38
 activity#com.example.al.alan2017summer.ActivityB
-ADDED from C:\Users\Al\Documents\1-AD\Alan2017Summer\app\src\main\AndroidManifest.xml:30:9-32:46
+ADDED from C:\Users\Al\Documents\1-AD\Alan2017Summer\app\src\main\AndroidManifest.xml:29:9-31:46
 	android:launchMode
-		ADDED from C:\Users\Al\Documents\1-AD\Alan2017Summer\app\src\main\AndroidManifest.xml:32:13-43
+		ADDED from C:\Users\Al\Documents\1-AD\Alan2017Summer\app\src\main\AndroidManifest.xml:31:13-43
 	android:name
-		ADDED from C:\Users\Al\Documents\1-AD\Alan2017Summer\app\src\main\AndroidManifest.xml:31:13-38
+		ADDED from C:\Users\Al\Documents\1-AD\Alan2017Summer\app\src\main\AndroidManifest.xml:30:13-38
 activity#com.example.al.alan2017summer.ActivityC
-ADDED from C:\Users\Al\Documents\1-AD\Alan2017Summer\app\src\main\AndroidManifest.xml:33:9-35:47
+ADDED from C:\Users\Al\Documents\1-AD\Alan2017Summer\app\src\main\AndroidManifest.xml:32:9-34:47
 	android:launchMode
-		ADDED from C:\Users\Al\Documents\1-AD\Alan2017Summer\app\src\main\AndroidManifest.xml:35:13-44
+		ADDED from C:\Users\Al\Documents\1-AD\Alan2017Summer\app\src\main\AndroidManifest.xml:34:13-44
 	android:name
-		ADDED from C:\Users\Al\Documents\1-AD\Alan2017Summer\app\src\main\AndroidManifest.xml:34:13-38
+		ADDED from C:\Users\Al\Documents\1-AD\Alan2017Summer\app\src\main\AndroidManifest.xml:33:13-38
 activity#com.example.al.alan2017summer.ActivityD
-ADDED from C:\Users\Al\Documents\1-AD\Alan2017Summer\app\src\main\AndroidManifest.xml:36:9-38:51
+ADDED from C:\Users\Al\Documents\1-AD\Alan2017Summer\app\src\main\AndroidManifest.xml:35:9-37:51
 	android:launchMode
-		ADDED from C:\Users\Al\Documents\1-AD\Alan2017Summer\app\src\main\AndroidManifest.xml:38:13-48
+		ADDED from C:\Users\Al\Documents\1-AD\Alan2017Summer\app\src\main\AndroidManifest.xml:37:13-48
 	android:name
-		ADDED from C:\Users\Al\Documents\1-AD\Alan2017Summer\app\src\main\AndroidManifest.xml:37:13-38
+		ADDED from C:\Users\Al\Documents\1-AD\Alan2017Summer\app\src\main\AndroidManifest.xml:36:13-38
 activity#com.example.al.alan2017summer.ScaleTypeActivity
-ADDED from C:\Users\Al\Documents\1-AD\Alan2017Summer\app\src\main\AndroidManifest.xml:40:9-55
+ADDED from C:\Users\Al\Documents\1-AD\Alan2017Summer\app\src\main\AndroidManifest.xml:38:9-55
 	android:name
-		ADDED from C:\Users\Al\Documents\1-AD\Alan2017Summer\app\src\main\AndroidManifest.xml:40:19-52
+		ADDED from C:\Users\Al\Documents\1-AD\Alan2017Summer\app\src\main\AndroidManifest.xml:38:19-52
 activity#com.example.al.alan2017summer.NinePatchActivity
-ADDED from C:\Users\Al\Documents\1-AD\Alan2017Summer\app\src\main\AndroidManifest.xml:41:9-55
+ADDED from C:\Users\Al\Documents\1-AD\Alan2017Summer\app\src\main\AndroidManifest.xml:39:9-55
 	android:name
-		ADDED from C:\Users\Al\Documents\1-AD\Alan2017Summer\app\src\main\AndroidManifest.xml:41:19-52
+		ADDED from C:\Users\Al\Documents\1-AD\Alan2017Summer\app\src\main\AndroidManifest.xml:39:19-52
 activity#com.example.al.alan2017summer.NotificationActivity
-ADDED from C:\Users\Al\Documents\1-AD\Alan2017Summer\app\src\main\AndroidManifest.xml:42:9-58
+ADDED from C:\Users\Al\Documents\1-AD\Alan2017Summer\app\src\main\AndroidManifest.xml:40:9-58
 	android:name
-		ADDED from C:\Users\Al\Documents\1-AD\Alan2017Summer\app\src\main\AndroidManifest.xml:42:19-55
+		ADDED from C:\Users\Al\Documents\1-AD\Alan2017Summer\app\src\main\AndroidManifest.xml:40:19-55
 activity#com.example.al.alan2017summer.fragment.AdvanceActivity
+ADDED from C:\Users\Al\Documents\1-AD\Alan2017Summer\app\src\main\AndroidManifest.xml:41:9-62
+	android:name
+		ADDED from C:\Users\Al\Documents\1-AD\Alan2017Summer\app\src\main\AndroidManifest.xml:41:19-59
+activity#com.example.al.alan2017summer.AdvanceListViewActivity
+ADDED from C:\Users\Al\Documents\1-AD\Alan2017Summer\app\src\main\AndroidManifest.xml:42:9-61
+	android:name
+		ADDED from C:\Users\Al\Documents\1-AD\Alan2017Summer\app\src\main\AndroidManifest.xml:42:19-58
+activity#com.example.al.alan2017summer.AdvanceViewPagerActivity
 ADDED from C:\Users\Al\Documents\1-AD\Alan2017Summer\app\src\main\AndroidManifest.xml:43:9-62
 	android:name
 		ADDED from C:\Users\Al\Documents\1-AD\Alan2017Summer\app\src\main\AndroidManifest.xml:43:19-59
-activity#com.example.al.alan2017summer.AdvanceListViewActivity
-ADDED from C:\Users\Al\Documents\1-AD\Alan2017Summer\app\src\main\AndroidManifest.xml:44:9-61
-	android:name
-		ADDED from C:\Users\Al\Documents\1-AD\Alan2017Summer\app\src\main\AndroidManifest.xml:44:19-58
-activity#com.example.al.alan2017summer.AdvanceViewPagerActivity
-ADDED from C:\Users\Al\Documents\1-AD\Alan2017Summer\app\src\main\AndroidManifest.xml:45:9-62
-	android:name
-		ADDED from C:\Users\Al\Documents\1-AD\Alan2017Summer\app\src\main\AndroidManifest.xml:45:19-59
 activity#com.example.al.alan2017summer.ResultActivity
-ADDED from C:\Users\Al\Documents\1-AD\Alan2017Summer\app\src\main\AndroidManifest.xml:46:9-52
+ADDED from C:\Users\Al\Documents\1-AD\Alan2017Summer\app\src\main\AndroidManifest.xml:44:9-52
 	android:name
-		ADDED from C:\Users\Al\Documents\1-AD\Alan2017Summer\app\src\main\AndroidManifest.xml:46:19-49
+		ADDED from C:\Users\Al\Documents\1-AD\Alan2017Summer\app\src\main\AndroidManifest.xml:44:19-49
 activity#com.example.al.alan2017summer.ResultActivity1
-ADDED from C:\Users\Al\Documents\1-AD\Alan2017Summer\app\src\main\AndroidManifest.xml:47:9-53
+ADDED from C:\Users\Al\Documents\1-AD\Alan2017Summer\app\src\main\AndroidManifest.xml:45:9-53
 	android:name
-		ADDED from C:\Users\Al\Documents\1-AD\Alan2017Summer\app\src\main\AndroidManifest.xml:47:19-50
+		ADDED from C:\Users\Al\Documents\1-AD\Alan2017Summer\app\src\main\AndroidManifest.xml:45:19-50
 activity#com.example.al.alan2017summer.ResultActivity2
-ADDED from C:\Users\Al\Documents\1-AD\Alan2017Summer\app\src\main\AndroidManifest.xml:48:9-53
+ADDED from C:\Users\Al\Documents\1-AD\Alan2017Summer\app\src\main\AndroidManifest.xml:46:9-53
 	android:name
-		ADDED from C:\Users\Al\Documents\1-AD\Alan2017Summer\app\src\main\AndroidManifest.xml:48:19-50
+		ADDED from C:\Users\Al\Documents\1-AD\Alan2017Summer\app\src\main\AndroidManifest.xml:46:19-50
 activity#com.example.al.alan2017summer.RadioGroupActivity
-ADDED from C:\Users\Al\Documents\1-AD\Alan2017Summer\app\src\main\AndroidManifest.xml:49:9-56
+ADDED from C:\Users\Al\Documents\1-AD\Alan2017Summer\app\src\main\AndroidManifest.xml:47:9-56
 	android:name
-		ADDED from C:\Users\Al\Documents\1-AD\Alan2017Summer\app\src\main\AndroidManifest.xml:49:19-53
+		ADDED from C:\Users\Al\Documents\1-AD\Alan2017Summer\app\src\main\AndroidManifest.xml:47:19-53
 activity#com.example.al.alan2017summer.CheckBoxActivity
-ADDED from C:\Users\Al\Documents\1-AD\Alan2017Summer\app\src\main\AndroidManifest.xml:50:9-54
+ADDED from C:\Users\Al\Documents\1-AD\Alan2017Summer\app\src\main\AndroidManifest.xml:48:9-54
 	android:name
-		ADDED from C:\Users\Al\Documents\1-AD\Alan2017Summer\app\src\main\AndroidManifest.xml:50:19-51
+		ADDED from C:\Users\Al\Documents\1-AD\Alan2017Summer\app\src\main\AndroidManifest.xml:48:19-51
 activity#com.example.al.alan2017summer.DialogActivity
-ADDED from C:\Users\Al\Documents\1-AD\Alan2017Summer\app\src\main\AndroidManifest.xml:51:9-52
+ADDED from C:\Users\Al\Documents\1-AD\Alan2017Summer\app\src\main\AndroidManifest.xml:49:9-52
 	android:name
-		ADDED from C:\Users\Al\Documents\1-AD\Alan2017Summer\app\src\main\AndroidManifest.xml:51:19-49
+		ADDED from C:\Users\Al\Documents\1-AD\Alan2017Summer\app\src\main\AndroidManifest.xml:49:19-49
 activity#com.example.al.alan2017summer.HandlerActivity
-ADDED from C:\Users\Al\Documents\1-AD\Alan2017Summer\app\src\main\AndroidManifest.xml:52:9-53
+ADDED from C:\Users\Al\Documents\1-AD\Alan2017Summer\app\src\main\AndroidManifest.xml:50:9-53
 	android:name
-		ADDED from C:\Users\Al\Documents\1-AD\Alan2017Summer\app\src\main\AndroidManifest.xml:52:19-50
+		ADDED from C:\Users\Al\Documents\1-AD\Alan2017Summer\app\src\main\AndroidManifest.xml:50:19-50
 activity#com.example.al.alan2017summer.RunnableHandlerActivity
-ADDED from C:\Users\Al\Documents\1-AD\Alan2017Summer\app\src\main\AndroidManifest.xml:53:9-61
+ADDED from C:\Users\Al\Documents\1-AD\Alan2017Summer\app\src\main\AndroidManifest.xml:51:9-61
 	android:name
-		ADDED from C:\Users\Al\Documents\1-AD\Alan2017Summer\app\src\main\AndroidManifest.xml:53:19-58
+		ADDED from C:\Users\Al\Documents\1-AD\Alan2017Summer\app\src\main\AndroidManifest.xml:51:19-58
 activity#com.example.al.alan2017summer.AnimationActivity
-ADDED from C:\Users\Al\Documents\1-AD\Alan2017Summer\app\src\main\AndroidManifest.xml:54:9-64
+ADDED from C:\Users\Al\Documents\1-AD\Alan2017Summer\app\src\main\AndroidManifest.xml:52:9-55
 	android:name
-		ADDED from C:\Users\Al\Documents\1-AD\Alan2017Summer\app\src\main\AndroidManifest.xml:54:19-52
+		ADDED from C:\Users\Al\Documents\1-AD\Alan2017Summer\app\src\main\AndroidManifest.xml:52:19-52
+activity#com.example.al.alan2017summer.AnimatorActivity
+ADDED from C:\Users\Al\Documents\1-AD\Alan2017Summer\app\src\main\AndroidManifest.xml:53:9-54
+	android:name
+		ADDED from C:\Users\Al\Documents\1-AD\Alan2017Summer\app\src\main\AndroidManifest.xml:53:19-51
+activity#com.example.al.alan2017summer.GestureActivity
+ADDED from C:\Users\Al\Documents\1-AD\Alan2017Summer\app\src\main\AndroidManifest.xml:54:9-53
+	android:name
+		ADDED from C:\Users\Al\Documents\1-AD\Alan2017Summer\app\src\main\AndroidManifest.xml:54:19-50
+activity#com.example.al.alan2017summer.SharedPreferenceActivity
+ADDED from C:\Users\Al\Documents\1-AD\Alan2017Summer\app\src\main\AndroidManifest.xml:55:9-71
+	android:name
+		ADDED from C:\Users\Al\Documents\1-AD\Alan2017Summer\app\src\main\AndroidManifest.xml:55:19-59
 uses-sdk
 INJECTED from C:\Users\Al\Documents\1-AD\Alan2017Summer\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:design:25.3.1] C:\Users\Al\.android\build-cache\def6ac30cabf594ca1486c5145d44c0e4a993408\output\AndroidManifest.xml:21:5-23:62
