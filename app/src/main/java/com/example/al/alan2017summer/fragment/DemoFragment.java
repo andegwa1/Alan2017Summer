@@ -21,15 +21,19 @@ import com.example.al.alan2017summer.GestureActivity;
 import com.example.al.alan2017summer.HandlerActivity;
 import com.example.al.alan2017summer.NinePatchActivity;
 import com.example.al.alan2017summer.NotificationActivity;
+import com.example.al.alan2017summer.Quiz3;
 import com.example.al.alan2017summer.R;
 import com.example.al.alan2017summer.RadioGroupActivity;
 import com.example.al.alan2017summer.ResultActivity;
 import com.example.al.alan2017summer.RunnableHandlerActivity;
+import com.example.al.alan2017summer.SQLiteActivity;
 import com.example.al.alan2017summer.ScaleTypeActivity;
+import com.example.al.alan2017summer.ServiceActivity;
 import com.example.al.alan2017summer.SharedPreferenceActivity;
 import com.example.al.alan2017summer.ViewPagerActivity;
 import com.example.al.alan2017summer.adapter.ListNormalAdapter;
 import com.example.al.alan2017summer.audio.BaseBean;
+import com.example.al.alan2017summer.provider.Provider;
 
 import java.util.ArrayList;
 
@@ -63,9 +67,11 @@ public class DemoFragment extends Fragment {
         contentList.add("Animator");
         contentList.add("Gesture");
         contentList.add("SharedPreference");
-        contentList.add("Files");
+        //contentList.add("Files");
         contentList.add("ContentProvider");
         contentList.add("SQLite");
+        contentList.add("Service&Broadcast");
+        contentList.add("Quiz3");
 
     }
 
@@ -172,6 +178,22 @@ public class DemoFragment extends Fragment {
                     case 16:
                         Intent intent16 = new Intent(getActivity(), SharedPreferenceActivity.class);
                         startActivity(intent16);
+                        break;
+                    case 17:
+                        Intent intent17 = new Intent(getActivity(), Provider.class);
+                        startActivity(intent17);
+                        break;
+                    case 18:
+                        Intent intent18 = new Intent(getActivity(), SQLiteActivity.class);
+                        startActivity(intent18);
+                        break;
+                    case 19:
+                        Intent intent19 = new Intent(getActivity(), ServiceActivity.class);
+                        startActivity(intent19);
+                        break;
+                    case 20:
+                        Intent intent20 = new Intent(getActivity(), Quiz3.class);
+                        startActivity(intent20);
                         break;
                     default:
                 }

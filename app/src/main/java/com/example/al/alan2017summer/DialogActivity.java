@@ -13,6 +13,7 @@ import android.widget.EditText;
 import android.widget.RadioGroup;
 
 import com.example.al.alan2017summer.dialog.CustomDialog;
+import com.example.al.alan2017summer.dialog.QuizDialog;
 
 import java.util.ArrayList;
 //import java.util.logging.Handler;
@@ -81,6 +82,16 @@ public class DialogActivity extends BaseActivity {
                 customDialog.setCanceledOnTouchOutside(true);
                 customDialog.show();
                 break;
+            case R.id.dlg9:
+                QuizDialog quizDialog = new QuizDialog(this, new QuizDialog.IQuizDialogListener() {
+                    @Override
+                    public void onOKClicked(String msg) {
+                        shortToast(msg);
+                    }
+                });
+                quizDialog.setCanceledOnTouchOutside(true);
+                quizDialog.show();
+                break;
             default:
         }
     }
@@ -95,7 +106,7 @@ public class DialogActivity extends BaseActivity {
         radioGroup.setOnCheckedChangeListener(new RadioGroup.OnCheckedChangeListener() {
             @Override
             public void onCheckedChanged(RadioGroup group, @IdRes int checkedId) {
-                shortToast("YOu chose: " + checkedId);
+                shortToast("You chose: " + checkedId);
                 checkedID = checkedId;
             }
         });

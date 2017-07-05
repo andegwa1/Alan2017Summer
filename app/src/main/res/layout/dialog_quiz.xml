@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout  xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="460dp">
+
+    <TextView
+        android:id="@+id/dialog_quiz_tv"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:text="Quiz3"
+        android:gravity="center"
+        android:textSize="30sp"
+        android:background="@android:color/darker_gray"/>
+
+    <RadioGroup
+        android:id="@+id/activity_radio_quiz"
+        android:layout_width="match_parent"
+        android:layout_height="300dp">
+
+        <RadioButton
+            android:id="@+id/activity_quiz_yes"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:text="Yes"/>
+
+        <RadioButton
+            android:id="@+id/activity_quiz_no"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:text="No"/>
+
+        <RadioButton
+            android:id="@+id/activity_quiz_exit"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:text="Exit"/>
+
+    </RadioGroup>
+
+
+
+<LinearLayout
+    android:layout_width="392dp"
+    android:layout_height="180dp"
+    android:gravity="center"
+    android:orientation="horizontal"
+    android:layout_weight="0.84">
+    <Button
+        android:id="@+id/activity_quiz_cancel"
+        android:layout_width="150dp"
+        android:layout_height="60dp"
+        android:textAllCaps="false"
+        android:text="Cancel"/>
+    <Button
+        android:id="@+id/activity_quiz_ok"
+        android:layout_width="150dp"
+        android:layout_height="60dp"
+        android:textAllCaps="false"
+        android:text="OK"/>
+
+</LinearLayout>
+
+</LinearLayout>

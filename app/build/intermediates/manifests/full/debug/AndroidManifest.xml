@@ -8,6 +8,11 @@
         android:minSdkVersion="21"
         android:targetSdkVersion="25" />
 
+    <provider
+        android:name="com.example.al.alan2017summer.content.Provider"
+        android:authorities="com.example.al.alan2017summer"
+        android:exported="true" />
+
     <meta-data
         android:name="android.support.VERSION"
         android:value="25.3.1" />
@@ -63,6 +68,11 @@
         <activity android:name="com.example.al.alan2017summer.AnimatorActivity" />
         <activity android:name="com.example.al.alan2017summer.GestureActivity" />
         <activity android:name="com.example.al.alan2017summer.SharedPreferenceActivity" />
+        <activity android:name="com.example.al.alan2017summer.ServiceActivity" />
+
+        <service android:name="com.example.al.alan2017summer.service.TestService" />
+
+        <activity android:name="com.example.al.alan2017summer.Quiz3" />
     </application>
 
 </manifest>

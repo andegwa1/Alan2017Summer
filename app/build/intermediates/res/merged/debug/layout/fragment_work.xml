@@ -32,20 +32,20 @@
         android:orientation="horizontal">
 
         <Button
-            android:id="@+id/quiz1"
+            android:id="@+id/button_quiz1"
             android:layout_width="125dp"
             android:layout_height="60dp"
             android:layout_weight="1"
             android:text="Quiz 1" />
 
         <Button
-            android:id="@+id/quiz2"
+            android:id="@+id/button_quiz2"
             android:layout_width="125dp"
             android:layout_height="match_parent"
             android:text="Quiz 2" />
 
         <Button
-            android:id="@+id/quiz3"
+            android:id="@+id/button_quiz3"
             android:layout_width="125dp"
             android:layout_height="match_parent"
             android:text="Quiz 3" />
@@ -53,16 +53,18 @@
     </LinearLayout>
 
     <LinearLayout
-        android:id="@+id/submit_button"
         android:layout_below="@+id/button_view"
         android:layout_width="match_parent"
         android:layout_height="60dp">
 
         <Button
+            android:id="@+id/submit_button"
             android:layout_width="match_parent"
             android:layout_height="60dp"
             android:background="@android:color/holo_blue_bright"
             android:text="Submit"/>
+
+
     </LinearLayout>
 
     <RelativeLayout

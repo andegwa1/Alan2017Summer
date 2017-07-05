@@ -72,6 +72,10 @@
         "source": "C:\\Users\\Al\\Documents\\1-AD\\Alan2017Summer\\app\\src\\main\\res\\layout\\activity_d.xml"
     },
     {
+        "merged": "C:\\Users\\Al\\Documents\\1-AD\\Alan2017Summer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_quiz3.xml",
+        "source": "C:\\Users\\Al\\Documents\\1-AD\\Alan2017Summer\\app\\src\\main\\res\\layout\\activity_quiz3.xml"
+    },
+    {
         "merged": "C:\\Users\\Al\\Documents\\1-AD\\Alan2017Summer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
         "source": "C:\\Users\\Al\\.android\\build-cache\\def6ac30cabf594ca1486c5145d44c0e4a993408\\output\\res\\layout\\design_navigation_item_subheader.xml"
     },
@@ -188,12 +192,16 @@
         "source": "C:\\Users\\Al\\Documents\\1-AD\\Alan2017Summer\\app\\src\\main\\res\\layout\\activity_test.xml"
     },
     {
+        "merged": "C:\\Users\\Al\\Documents\\1-AD\\Alan2017Summer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\Al\\.android\\build-cache\\e58194c029b149befd2946271ccfda2ed9fe4149\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
         "merged": "C:\\Users\\Al\\Documents\\1-AD\\Alan2017Summer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
         "source": "C:\\Users\\Al\\.android\\build-cache\\e58194c029b149befd2946271ccfda2ed9fe4149\\output\\res\\layout\\abc_action_bar_title_item.xml"
     },
     {
-        "merged": "C:\\Users\\Al\\Documents\\1-AD\\Alan2017Summer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
-        "source": "C:\\Users\\Al\\.android\\build-cache\\e58194c029b149befd2946271ccfda2ed9fe4149\\output\\res\\layout\\abc_alert_dialog_material.xml"
+        "merged": "C:\\Users\\Al\\Documents\\1-AD\\Alan2017Summer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_quiz.xml",
+        "source": "C:\\Users\\Al\\Documents\\1-AD\\Alan2017Summer\\app\\src\\main\\res\\layout\\dialog_quiz.xml"
     },
     {
         "merged": "C:\\Users\\Al\\Documents\\1-AD\\Alan2017Summer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_work.xml",
@@ -206,6 +214,10 @@
     {
         "merged": "C:\\Users\\Al\\Documents\\1-AD\\Alan2017Summer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_normal_item.xml",
         "source": "C:\\Users\\Al\\Documents\\1-AD\\Alan2017Summer\\app\\src\\main\\res\\layout\\list_normal_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Al\\Documents\\1-AD\\Alan2017Summer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_service.xml",
+        "source": "C:\\Users\\Al\\Documents\\1-AD\\Alan2017Summer\\app\\src\\main\\res\\layout\\activity_service.xml"
     },
     {
         "merged": "C:\\Users\\Al\\Documents\\1-AD\\Alan2017Summer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_nine_patch.xml",
@@ -330,6 +342,10 @@
     {
         "merged": "C:\\Users\\Al\\Documents\\1-AD\\Alan2017Summer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_animation.xml",
         "source": "C:\\Users\\Al\\Documents\\1-AD\\Alan2017Summer\\app\\src\\main\\res\\layout\\activity_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Al\\Documents\\1-AD\\Alan2017Summer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sqlite.xml",
+        "source": "C:\\Users\\Al\\Documents\\1-AD\\Alan2017Summer\\app\\src\\main\\res\\layout\\activity_sqlite.xml"
     },
     {
         "merged": "C:\\Users\\Al\\Documents\\1-AD\\Alan2017Summer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",

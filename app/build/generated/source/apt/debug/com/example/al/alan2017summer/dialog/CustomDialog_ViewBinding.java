@@ -14,7 +14,7 @@ import java.lang.Override;
 public class CustomDialog_ViewBinding implements Unbinder {
   private CustomDialog target;
 
-  private View view2131558619;
+  private View view2131558623;
 
   @UiThread
   public CustomDialog_ViewBinding(CustomDialog target) {
@@ -27,7 +27,7 @@ public class CustomDialog_ViewBinding implements Unbinder {
 
     View view;
     view = Utils.findRequiredView(source, R.id.dialog_custom_ok, "method 'ok'");
-    view2131558619 = view;
+    view2131558623 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -43,7 +43,7 @@ public class CustomDialog_ViewBinding implements Unbinder {
     target = null;
 
 
-    view2131558619.setOnClickListener(null);
-    view2131558619 = null;
+    view2131558623.setOnClickListener(null);
+    view2131558623 = null;
   }
 }

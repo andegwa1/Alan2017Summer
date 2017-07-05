@@ -5,6 +5,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 import android.view.View.OnClickListener;
+import android.widget.Button;
 import android.widget.TextView;
 import android.widget.Toast;
 
@@ -15,6 +16,8 @@ public class MainActivity extends AppCompatActivity {
 
     private TextView tv_demo;
     private TextView tv_work;
+
+    private Button submit;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -28,6 +31,7 @@ public class MainActivity extends AppCompatActivity {
         tv_demo = (TextView)findViewById(R.id.activity_tool_demo);
         tv_work = (TextView)findViewById(R.id.activity_tool_work);
 
+        submit = (Button) findViewById(R.id.submit_button);
     }
 
     private void setListener() {
@@ -45,6 +49,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
+
         OnClickListener listener = new OnClickListener() {
             @Override
             public void onClick(View view) {
@@ -56,15 +61,26 @@ public class MainActivity extends AppCompatActivity {
 
             }
         };
+//            }
+//        };
+                tv_work.setOnClickListener(listener);
 
-        tv_work.setOnClickListener(listener);
-    }
+//        OnClickListener listener1 = new OnClickListener() {
+//            @Override
+//            public void onClick(View view) {
+//                Toast.makeText(MainActivity.this, "Submission successful", Toast.LENGTH_SHORT).show();
+//                getSupportFragmentManager().beginTransaction().replace(R.id.submit_button,
+//                        workFragment).commit();
+//
+//            }
+//        };
+//
+//        submit.setOnClickListener(listener);
+            }
 
-    public void login(View v){
-        Toast.makeText(MainActivity.this, "You clicked login", Toast.LENGTH_SHORT).show();
-    }
+            public void login(View v) {
+                Toast.makeText(MainActivity.this, "You clicked login", Toast.LENGTH_SHORT).show();
+            }
 
 
-
-
-}
+        }

@@ -14,9 +14,9 @@ import java.lang.Override;
 public class SharedPreferenceActivity_ViewBinding implements Unbinder {
   private SharedPreferenceActivity target;
 
-  private View view2131558604;
+  private View view2131558608;
 
-  private View view2131558603;
+  private View view2131558607;
 
   @UiThread
   public SharedPreferenceActivity_ViewBinding(SharedPreferenceActivity target) {
@@ -31,7 +31,7 @@ public class SharedPreferenceActivity_ViewBinding implements Unbinder {
     target.emailEditText = Utils.findRequiredViewAsType(source, R.id.activity_shared_pref_email, "field 'emailEditText'", EditText.class);
     target.passwordEditText = Utils.findRequiredViewAsType(source, R.id.activity_shared_pref_password, "field 'passwordEditText'", EditText.class);
     view = Utils.findRequiredView(source, R.id.activity_shared_pref_clear, "method 'clear'");
-    view2131558604 = view;
+    view2131558608 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -39,7 +39,7 @@ public class SharedPreferenceActivity_ViewBinding implements Unbinder {
       }
     });
     view = Utils.findRequiredView(source, R.id.activity_shared_pref_login, "method 'login'");
-    view2131558603 = view;
+    view2131558607 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -58,9 +58,9 @@ public class SharedPreferenceActivity_ViewBinding implements Unbinder {
     target.emailEditText = null;
     target.passwordEditText = null;
 
-    view2131558604.setOnClickListener(null);
-    view2131558604 = null;
-    view2131558603.setOnClickListener(null);
-    view2131558603 = null;
+    view2131558608.setOnClickListener(null);
+    view2131558608 = null;
+    view2131558607.setOnClickListener(null);
+    view2131558607 = null;
   }
 }

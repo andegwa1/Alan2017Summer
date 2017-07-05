@@ -1,17 +1,14 @@
 package com.example.al.alan2017summer;
 
 import android.animation.Animator;
-import android.animation.ArgbEvaluator;
 import android.animation.ObjectAnimator;
 import android.animation.TypeEvaluator;
 import android.animation.ValueAnimator;
-import android.support.v4.content.res.ConfigurationHelper;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 import android.view.animation.AccelerateInterpolator;
+import android.view.animation.BounceInterpolator;
 import android.view.animation.CycleInterpolator;
-import android.widget.Button;
 import android.widget.TextView;
 
 import com.example.al.alan2017summer.util.UtilLog;
@@ -89,7 +86,8 @@ public class AnimatorActivity extends BaseActivity {
 
     @OnClick(R.id.animator_bt_start)
     public void startAnimator(){
-        repeatAnimator = doAnimaotrListener();
+        repeatAnimator = doAnimatorListener();
+        //repeatAnimator.setStartDelay(3000);
         repeatAnimator.start();
     }
 
@@ -118,7 +116,7 @@ public class AnimatorActivity extends BaseActivity {
         });
     }
 
-    private ValueAnimator doAnimaotrListener(){
+    private ValueAnimator doAnimatorListener(){
         ValueAnimator animator = ValueAnimator.ofInt(0,400);
 
         animator.addUpdateListener(new ValueAnimator.AnimatorUpdateListener() {
@@ -157,10 +155,13 @@ public class AnimatorActivity extends BaseActivity {
 
         animator.setRepeatMode(ValueAnimator.REVERSE);
         animator.setRepeatCount(2);
-//        animator.setInterpolator(new CycleInterpolator(10));
+        //animator.setInterpolator(new BounceInterpolator());
         animator.setDuration(2000);
         return animator;
     }
+
+
+
 
     private class CharEvaluator implements TypeEvaluator<Character>{
 

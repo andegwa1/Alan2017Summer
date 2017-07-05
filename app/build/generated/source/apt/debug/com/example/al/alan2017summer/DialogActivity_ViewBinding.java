@@ -14,7 +14,7 @@ import java.lang.Override;
 public class DialogActivity_ViewBinding implements Unbinder {
   private DialogActivity target;
 
-  private View view2131558581;
+  private View view2131558582;
 
   @UiThread
   public DialogActivity_ViewBinding(DialogActivity target) {
@@ -28,7 +28,7 @@ public class DialogActivity_ViewBinding implements Unbinder {
     View view;
     target.radioGroup = Utils.findRequiredViewAsType(source, R.id.activity_dialog, "field 'radioGroup'", RadioGroup.class);
     view = Utils.findRequiredView(source, R.id.activity_dialog_ok, "method 'ok'");
-    view2131558581 = view;
+    view2131558582 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -46,7 +46,7 @@ public class DialogActivity_ViewBinding implements Unbinder {
 
     target.radioGroup = null;
 
-    view2131558581.setOnClickListener(null);
-    view2131558581 = null;
+    view2131558582.setOnClickListener(null);
+    view2131558582 = null;
   }
 }

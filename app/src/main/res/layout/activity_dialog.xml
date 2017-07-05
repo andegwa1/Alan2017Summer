@@ -10,62 +10,68 @@
     <RadioGroup
         android:id="@+id/activity_dialog"
         android:layout_width="match_parent"
-        android:layout_height="480dp">
+        android:layout_height="500dp">
 
         <RadioButton
             android:id="@+id/dlg1"
             android:layout_width="match_parent"
-            android:layout_height="60dp"
+            android:layout_height="40dp"
             android:text="NormalDialog"/>
 
         <RadioButton
             android:id="@+id/dlg2"
             android:layout_width="match_parent"
-            android:layout_height="60dp"
+            android:layout_height="40dp"
             android:text="ListDialog"/>
 
         <RadioButton
             android:id="@+id/dlg3"
             android:layout_width="match_parent"
-            android:layout_height="60dp"
+            android:layout_height="40dp"
             android:text="SingleChoiceDialog"/>
 
         <RadioButton
             android:id="@+id/dlg4"
             android:layout_width="match_parent"
-            android:layout_height="60dp"
+            android:layout_height="40dp"
             android:text="MultiChoiceDialog"/>
 
         <RadioButton
             android:id="@+id/dlg5"
             android:layout_width="match_parent"
-            android:layout_height="60dp"
+            android:layout_height="40dp"
             android:text="WaitingDialog"/>
 
         <RadioButton
             android:id="@+id/dlg6"
             android:layout_width="match_parent"
-            android:layout_height="60dp"
+            android:layout_height="40dp"
             android:text="ProgressDialog"/>
 
         <RadioButton
             android:id="@+id/dlg7"
             android:layout_width="match_parent"
-            android:layout_height="60dp"
+            android:layout_height="40dp"
             android:text="InputDialog"/>
 
         <RadioButton
             android:id="@+id/dlg8"
             android:layout_width="match_parent"
-            android:layout_height="60dp"
+            android:layout_height="40dp"
             android:text="CustomDialog"/>
+
+        <RadioButton
+            android:id="@+id/dlg9"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:text="QuizDialog"/>
 
     </RadioGroup>
 
     <Button
         android:id="@+id/activity_dialog_ok"
         android:layout_width="match_parent"
-        android:layout_height="60dp"
+        android:layout_height="30dp"
         android:text="OK"/>
 
 

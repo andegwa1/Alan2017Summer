@@ -19,6 +19,7 @@ public class CustomDialog extends Dialog {
     private final ICustomDialogListener listener;
 
     public interface ICustomDialogListener{
+
         public void onOKClicked(String msg);
         //abstract void onCancelClicked();
     }

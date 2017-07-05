@@ -13,11 +13,11 @@ import java.lang.Override;
 public class NotificationActivity_ViewBinding implements Unbinder {
   private NotificationActivity target;
 
-  private View view2131558591;
-
   private View view2131558592;
 
   private View view2131558593;
+
+  private View view2131558594;
 
   @UiThread
   public NotificationActivity_ViewBinding(NotificationActivity target) {
@@ -30,7 +30,7 @@ public class NotificationActivity_ViewBinding implements Unbinder {
 
     View view;
     view = Utils.findRequiredView(source, R.id.activity_notification_small, "method 'smallNotification'");
-    view2131558591 = view;
+    view2131558592 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -38,7 +38,7 @@ public class NotificationActivity_ViewBinding implements Unbinder {
       }
     });
     view = Utils.findRequiredView(source, R.id.activity_notification_big, "method 'bigNotification'");
-    view2131558592 = view;
+    view2131558593 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -46,7 +46,7 @@ public class NotificationActivity_ViewBinding implements Unbinder {
       }
     });
     view = Utils.findRequiredView(source, R.id.activity_notification_pic, "method 'picNotification'");
-    view2131558593 = view;
+    view2131558594 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -62,11 +62,11 @@ public class NotificationActivity_ViewBinding implements Unbinder {
     target = null;
 
 
-    view2131558591.setOnClickListener(null);
-    view2131558591 = null;
     view2131558592.setOnClickListener(null);
     view2131558592 = null;
     view2131558593.setOnClickListener(null);
     view2131558593 = null;
+    view2131558594.setOnClickListener(null);
+    view2131558594 = null;
   }
 }
